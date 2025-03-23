@@ -51,7 +51,7 @@ Ensure you have **Java Development Kit (JDK 8 or later)** installed.
 ![Screenshot (23)](https://github.com/user-attachments/assets/ae865933-5a49-4195-93f4-aeade3ff5316)
 ![Screenshot (24)](https://github.com/user-attachments/assets/c948e69a-4687-4042-b031-4dbd070db54b)
 ![Screenshot (25)](https://github.com/user-attachments/assets/ed50f0ac-218b-4664-9e38-06db0fc66d80)
-![Screenshot (26)](https://github.com/user-attachments/assets/cbf82d04-7be0-40f6-874b-cb9846871a55)
+
 ..
 
 
