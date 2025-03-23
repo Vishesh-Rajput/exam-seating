@@ -74,5 +74,5 @@ If you'd like to contribute, feel free to fork the repository and submit a pull 
 This project is licensed under the **MIT License**.
 
 ## Contact
-For any queries, contact **Vishesh Rajput** at [your-email@example.com].
+For any queries, contact **Vishesh Rajput** at vishesh.rajput.p@gmail.com  .
 
